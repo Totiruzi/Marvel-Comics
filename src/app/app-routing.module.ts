@@ -11,6 +11,9 @@ const routes: Routes = [
   {
     path: 'characters',
     component: CharactersComponent
+  },
+  {
+    path: 'character/:character.urls[0].url]', component: CharacterComponent
   }
 ];
 
